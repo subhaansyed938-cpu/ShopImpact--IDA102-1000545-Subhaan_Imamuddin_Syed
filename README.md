@@ -9,15 +9,24 @@ The application provides a personalized shopping dashboard where users can recor
 By combining interactive dashboards, real-time calculations, engaging visuals and personalized sustainability insights, ShopImpact transforms everyday shopping into an opportunity to make more informed and environmentally responsible decisions.
 
 **Course:** Artificial Intelligence: Real-World Applications & Implications
+
 **Course Code:** `IDAI 102` (Python Programming)
+
 **Assignment Title:** Design and Deploy Interactive Python Applications for Social Good
+
 **Type of Assessment:** Summative Assessment (Individual Project)
+
 **Scenario Track:** Scenario 1 — ShopImpact Conscious Shopping Dashboard
+
 **Student Author:** Subhaan Imamuddin Syed (Candidate ID: `100054`5)
+
 **School / Institutional Partner:** Aspee Nutan Academy / WACP International
+
 **Client Enterprise:** ShopImpact Ltd. | Python Product Design Team
-**Live Web Application Link:**
-**GitHub Repository:**
+
+**Live Web Application Link:**[https://shopimpactida1021000545subhaanimamuddinsyed-pvluniouuwbga4rcnp.streamlit.app/](https://shopimpactida1021000545subhaanimamuddinsyed-pvluniouuwbga4rcnp.streamlit.app/)
+
+**GitHub Repository:**[https://github.com/subhaansyed938-cpu/ShopImpact--IDA102-1000545-Subhaan_Imamuddin_Syed](https://github.com/subhaansyed938-cpu/ShopImpact--IDA102-1000545-Subhaan_Imamuddin_Syed)
 
 ---
 
